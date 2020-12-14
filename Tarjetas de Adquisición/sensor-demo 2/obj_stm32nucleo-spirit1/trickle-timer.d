@@ -1,0 +1,33 @@
+obj_stm32nucleo-spirit1/trickle-timer.o: \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/lib/trickle-timer.c \
+ /home/diego/Documentos/NuevoProyecto/contiki/platform/stm32nucleo-spirit1/contiki-conf.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/platform/stm32nucleo-spirit1/platform-conf.h \
+ project-conf.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/lib/trickle-timer.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/ctimer.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/etimer.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/timer.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/clock.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/process.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/pt.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/lc.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/lc-switch.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/cc.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/cc-gcc.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/lib/random.h
+ /home/diego/Documentos/NuevoProyecto/contiki/core/lib/trickle-timer.c :
+ /home/diego/Documentos/NuevoProyecto/contiki/platform/stm32nucleo-spirit1/contiki-conf.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/platform/stm32nucleo-spirit1/platform-conf.h :
+ project-conf.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/lib/trickle-timer.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/ctimer.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/etimer.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/timer.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/clock.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/process.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/pt.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/lc.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/lc-switch.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/cc.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/cc-gcc.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/lib/random.h :

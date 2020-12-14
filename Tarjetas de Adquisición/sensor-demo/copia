@@ -1,0 +1,14 @@
+DEFINES+=PROJECT_CONF_H=\"project-conf.h\"
+all: sensor-demo
+
+APPS += mqtt
+
+TARGET=stm32nucleo-spirit1
+SENSORBOARD=iks01a1
+
+SMALL = 1
+
+CONTIKI_WITH_IPV6 = 1
+
+CONTIKI = ../../..
+include $(CONTIKI)/Makefile.include

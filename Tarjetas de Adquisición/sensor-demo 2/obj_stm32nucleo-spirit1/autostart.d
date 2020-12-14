@@ -1,0 +1,23 @@
+obj_stm32nucleo-spirit1/autostart.o: \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/autostart.c \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/autostart.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/process.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/pt.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/lc.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/lc-switch.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/cc.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/platform/stm32nucleo-spirit1/contiki-conf.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/platform/stm32nucleo-spirit1/platform-conf.h \
+ project-conf.h \
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/cc-gcc.h
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/autostart.c :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/autostart.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/process.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/pt.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/lc.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/lc-switch.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/cc.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/platform/stm32nucleo-spirit1/contiki-conf.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/platform/stm32nucleo-spirit1/platform-conf.h :
+ project-conf.h :
+ /home/diego/Documentos/NuevoProyecto/contiki/core/sys/cc-gcc.h :

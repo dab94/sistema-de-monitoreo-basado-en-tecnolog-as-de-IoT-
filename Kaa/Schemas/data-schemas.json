@@ -1,0 +1,21 @@
+{
+     "type": "record",
+     "name": "DataCollection",
+     "namespace": "org.kaaproject.kaa.schema.newapp",
+     "fields": [
+     {
+             "name": "temperature",
+             "type": "int"
+             },{
+             
+             "name":"Flow",
+             "type":"int"
+         },{
+         
+         "name": "Level",
+         "type":"int"
+         
+         }
+     ],
+     "version" : 5
+ }
